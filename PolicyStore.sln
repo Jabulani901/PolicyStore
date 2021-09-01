@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolicyStoreWebApi", "PolicyStoreWebApi.csproj", "{B7DBD1C5-A363-4A6C-A402-6BDE2E75B876}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7DBD1C5-A363-4A6C-A402-6BDE2E75B876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7DBD1C5-A363-4A6C-A402-6BDE2E75B876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7DBD1C5-A363-4A6C-A402-6BDE2E75B876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7DBD1C5-A363-4A6C-A402-6BDE2E75B876}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF672D1C-C2D7-4062-903F-A521FB7B5734}
+	EndGlobalSection
+EndGlobal
